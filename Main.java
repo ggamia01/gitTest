@@ -1,4 +1,3 @@
-public class main {
-	private String test; //gitTest
-	//second Test
+public class Main{
+	private String name;
 }
